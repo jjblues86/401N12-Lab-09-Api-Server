@@ -1,5 +1,3 @@
-
-
 'use strict';
 /**
  * Model Finder Middleware
